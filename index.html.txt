@@ -5,8 +5,6 @@
         <title>Документ без названия</title>
   </head>
 8 <body>
-  <h1>GIT</h1>
-  <p>новое изменение</p>
-   <p>новое изменение2</p>
+  <h1>sdfsdfsdfsdfsdfsdfsdfsdfsdfsdf</h1>
 </body> 
 </html>
